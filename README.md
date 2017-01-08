@@ -1,9 +1,9 @@
-# hoodie-dashboard-api
+# hoodie-community-dashboard-api
 
 > API server for Hoodie Community activity data
 
 [hapi](http://hapijs.com/) server exposing APIs that are consumed by the
-[hoodie-dashboard](#) app which displays activity charts on Hoodie’s community.
+[hoodie-community-dashboard](https://github.com/hoodiehq/hoodie-community-dashboard/) app which displays activity charts on Hoodie’s community.
 
 ## Routes
 
