@@ -1,0 +1,29 @@
+{
+  "name": "hoodie-dashboard-api",
+  "version": "1.2.3",
+  "description": "API server for Hoodie Community activity data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/server",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoodiehq/hoodie-dashboard-api.git"
+  },
+  "keywords": [
+    "dashboard",
+    "github",
+    "community"
+  ],
+  "author": "Hoodie Community",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hoodiehq/hoodie-dashboard-api/issues"
+  },
+  "homepage": "https://github.com/hoodiehq/hoodie-dashboard-api#readme",
+  "dependencies": {
+    "hapi": "^16.1.0",
+    "hapi-cors-headers": "^1.0.0"
+  }
+}
